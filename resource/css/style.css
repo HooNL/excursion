@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+
+}
+
+
+body{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+
+body h1{
+    color: #fff;
+    text-align: center;
+    font-family: Verdana sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.down{
+    color: aquamarine;
+    font-style: 16px;
+}
