@@ -19,8 +19,6 @@ main{
 
 
 
-
-
 body h1{
     color: #fff;
     text-align: center;
@@ -41,12 +39,21 @@ body h1{
     color: gray;
 }
 
-.h1{
+h1{
     font-family: Verdana;
-    font-weight: 300;
-    font-size: 42px;
+    font-weight: normal;
+    font-size: 50px;
 }
 
+h2{
+    font-size: 42px;
+    font-weight: 300;
+}
+
+
+.icon{
+    padding-top: 1rem;
+}
 
 footer{
     text-align: right;
