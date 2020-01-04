@@ -11,6 +11,16 @@ body{
 }
 
 
+main{
+    text-align: center;
+    justify-content: center;
+    margin: 0 50px;
+}
+
+
+
+
+
 body h1{
     color: #fff;
     text-align: center;
@@ -21,5 +31,28 @@ body h1{
 
 .down{
     color: aquamarine;
-    font-style: 16px;
+    font-size: 16px;
+}
+
+
+.p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.h1{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+
+footer{
+    text-align: right;
+    color: gray;
+    font-size: 20px;
+    font-weight: 550;
+    font-family: Verdana;
+
 }
